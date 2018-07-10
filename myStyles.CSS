@@ -1,1 +1,25 @@
+body {
+    font-family:fantasy;
+
+
+
+
+    margin: 30px;
+}
+
+#navbar {
+    color; blue;
+    margin 20;
+}
+
+.textblocks {
+    color: orange;
+    margin: 5px;
+}
+
+
+.container {
+    margin:5px 0px;
+    border: 1px solid black;
+}
 
